@@ -1,4 +1,4 @@
-# Programacaoprimeirosemestre
+# Programacao primeiro semestre
 Lista de Exercícios N° 01
 1. Escreva um programa que apresente na tela a frase: "Meu primeiro programa!!!"
 2. Escreva um programa que solicite ao usuário um número inteiro e ao final apresente na tela
